@@ -1,6 +1,7 @@
 # ISE_244_proj
-# Notebook consists implementation part
-# The report has various sections such as
+***Notebook consists implementation part***
+
+***The report has various sections such as***
 
 1) Problem definition
 2) Project Objectives
