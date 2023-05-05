@@ -1,5 +1,5 @@
 # ISE_244_proj
-# Notebook consists implementaion part
+# Notebook consists implementation part
 # The report has various sections such as
 
 1) Problem definition
